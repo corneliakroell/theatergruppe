@@ -1,0 +1,50 @@
+a {
+color: #cc3333;
+}
+
+a:hover{
+color: #cc3333;
+}
+
+#jumbotron {
+background-image: url("../img/header.jpg");
+background-size:cover;
+color: white;
+}
+
+.fancy{
+font-family: 'Zeyada', cursive;
+}
+
+
+
+#facebook {
+border: 1px solid #cc3333;
+padding: 1rem;
+margin-top: 2rem;
+}
+
+.team {
+border-bottom: 1px solid #cc3333;
+padding-bottom: 1rem;
+margin-bottom: 2rem;
+}
+
+.saison{
+border-bottom: 1px solid #cc3333;
+padding-bottom: 1rem;
+margin-bottom: 2rem;
+}
+
+#maps{
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
+footer {
+margin-top: 4rem;
+padding: 1rem 0;
+text-align: center;
+}
+
+
